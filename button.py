@@ -1,5 +1,5 @@
 #!/usr/bin/env python
- 
+# based on http://lazarenko.me/2013/03/04/python-in-trading/
 import sys, usb.core
 
 LOGFILENAME='/tmp/foo'
